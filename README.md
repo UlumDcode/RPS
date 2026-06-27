@@ -1,2 +1,1 @@
-This is a rock, paper, scissors game.
-\rlets play
+This is a rock, paper, scissors game. Lets play
